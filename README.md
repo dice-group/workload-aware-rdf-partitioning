@@ -21,9 +21,10 @@ We provide the datasets and queries of the benchmarmks and real-world datasets u
 
 ### Reproducing Results
 
- 1. Download and built [Koral](https://github.com/Institute-Web-Science-and-Technologies/koral) project.
- 2. Please follow the remaining steps given by Koral in order to make triplestores using Koral.
- 3. PCM implementation can be found at [PCM](https://github.com/renespeck/Cugar/blob/master/src/de/uni_leipzig/mcl/cluster/MarkovClustering.java)
+ 1. Download and built [Koral](https://github.com/Institute-Web-Science-and-Technologies/koral) project and follow the steps.
+ 2. Next, download and build existing rdf-partitioning evaluation for seven techniques from [here](https://github.com/dice-group/rdf-partitioning) and follow the steps.
+ 3. Source code for PCM can be found [here](https://github.com/renespeck/Cugar/blob/master/src/de/uni_leipzig/mcl/cluster/MarkovClustering.java)
+ 4. Source code for PartOut can be found [here](https://drive.google.com/drive/folders/11fGZ_2Rm6s38LmbIRNUl2Nd4_D4INR28)
 
  ```html
 ### Authors 
